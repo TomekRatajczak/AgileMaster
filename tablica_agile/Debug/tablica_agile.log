@@ -1,0 +1,10 @@
+﻿  tablica_agile.cpp
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(94,13): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\U0001F609" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(105,13): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\U0001F609" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(309,26): warning C4930: "std::ifstream close(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(344,26): warning C4930: "std::ifstream close(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(416,26): warning C4930: "std::ifstream close(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(450,26): warning C4930: "std::ifstream close(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(484,26): warning C4930: "std::ifstream close(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+C:\Users\48790\Desktop\cpp\tablica_agile\tablica_agile\tablica_agile.cpp(518,26): warning C4930: "std::ifstream close(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+  tablica_agile.vcxproj -> C:\Users\48790\Desktop\cpp\tablica_agile\Debug\tablica_agile.exe
